@@ -58,7 +58,7 @@ Deactivate - Allows human resources or employees to deactivate the contract at w
 Initial deployment of the contract. Note the balance of the shares distributed is zero.
 ![Deployed_DEP](Images/Deployed-DEP.PNG)
 
-Fastforwarding to demonstrated distribution function.
+Fastforwarding to demonstrate distribution function.
 ![Fastforward](Images/FastForward_to_Distribute-DEP.PNG)
 
 Final distribution of all shares.
