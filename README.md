@@ -12,10 +12,13 @@ Balance - Returns the balance of the address of the contract (owner).
 Deposit - Deposits the amount of the contract divided by 3 for each of the employees and returns the remainder to the owner.
 
 ### Images
+The account balances before the transaction.
 ![Setup_APS](Images/Pre-AssociateProfitSplitter.PNG)
 
+Contract deployment and use of deposit function.
 ![Transact_APS](Images/Deposit_APS.PNG)
 
+The account balances post the transaction.
 ![Post_APS](Images/Post-AssociateProfitSplitter.PNG)
 
 
@@ -30,10 +33,13 @@ Balance - Returns the balance of the address of the contract (owner).
 Deposit - Deposits the amount of the contract multipled by the ratio for each of the employees and returns the remainder to the CEO.
 
 ### Images
+The account balances before the transaction.
 ![Setup_TPS](Images/Pre-TieredProfitSplitter.PNG)
 
+Contract deployment and use of the deposit function.
 ![Transact_TPS](Images/Deposit_TPS.PNG)
 
+The account balances post the transaction.
 ![Post_TPS](Images/Post-TieredProfitSplitter.PNG)
 
 # Contract 3: DeferredEquityPlan
@@ -49,8 +55,11 @@ FastForward - To move the time forward 365 days so the functions can be tested.
 Deactivate - Allows human resources or employees to deactivate the contract at will.
 
 ### Images
+Initial deployment of the contract. Note the balance of the shares distributed is zero.
 ![Deployed_DEP](Images/Deployed-DEP.PNG)
 
+Fastforwarding to demonstrated distribution function.
 ![Fastforward](Images/FastForward_to_Distribute-DEP.PNG)
 
+Final distribution of all shares.
 ![Distributed_DEP](Images/Distributed-DEP.PNG)
